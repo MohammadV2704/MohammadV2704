@@ -1,6 +1,6 @@
 ![logo](https://github.com/MohammadV2704/MohammadV2704/blob/main/Vohra.png)
 <h1 align="center">Hi 👋, I'm Mohammad Vohra</h1>
-<h3 align="center">BLOCKCHAIN AND SOLIDITY ENTHUSIAST ||REACT.JS||ETHEREUM</h3>
+<h3 align="center">||REACT.JS||ETHEREUM</h3>
 <img align="right" alt="cpding" width="400" src="https://raw.githubusercontent.com/rajpratyush/rajpratyush/master/me_1.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mohammadv2704&label=Profile%20views&color=0e75b6&style=flat" alt="mohammadv2704" /> </p>
 
