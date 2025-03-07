@@ -1,7 +1,7 @@
 ![logo](https://github.com/MohammadV2704/MohammadV2704/blob/main/Mohammad.png)
 
 <h1 align="center"> Hi 👋, I'm Mohammad Vohra </h1>
-<p align="center"> 🚀 Frontend Developer </p>  
+<!-- <p align="center"> 🚀 Frontend Developer </p>   -->
 
 ![Profile Views](https://komarev.com/ghpvc/?username=MohammadV2704&color=brightgreen)
 
