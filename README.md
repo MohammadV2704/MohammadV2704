@@ -1,27 +1,72 @@
-![logo](https://github.com/MohammadV2704/MohammadV2704/blob/main/Vohra.png)
-<h1 align="center">Hi 👋, I'm Mohammad Vohra</h1>
-<h3 align="center">Frontend Developer</h3>
-<img align="right" alt="cpding" width="400" src="https://raw.githubusercontent.com/rajpratyush/rajpratyush/master/me_1.gif">
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=mohammadv2704&label=Profile%20views&color=0e75b6&style=flat" alt="mohammadv2704" /> </p>
+![logo](https://github.com/MohammadV2704/MohammadV2704/blob/main/Mohammad.png)
 
-- 🌴 I'm Currently Learning **Full stack Developement **
- 
-- 🎥 How To reach Me **vohramohammad5253@gmail.com**
+<h1 align="center"> Hi 👋, I'm Mohammad Vohra </h1>
+<p align="center"> 🚀 Frontend Developer </p>  
 
-- 😁Fun Fact **I'm Funny😂**
+![Profile Views](https://komarev.com/ghpvc/?username=MohammadV2704&color=brightgreen)
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/vohramohammad6" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="vohramohammad6" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/vohra-mohammad-51b58021b/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="vohra-mohammad-51b58021b/" height="30" width="40" /></a>
-<a href="https://instagram.com/__mohammad5253__/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="__mohammad5253__/" height="30" width="40" /></a>
+<img align="right" alt="coding" width="400" src="Gif.gif">
+
+
+### 👨‍💻 About Me:
+- 🌱 Currently learning **Full Stack Development**
+- 💡 Exploring **new tech stacks** and building cool stuff.
+- 📖 Love reading **technical documentation**.
+- 🎯 2025 Goals: Improve in **Cloud, DevOps, and Security**
+- ⚡ Fun Fact: `===` is not always equal in JavaScript 😆
+
+---
+
+### 📫 Connect With Me:
+[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?&style=for-the-badge&logo=facebook&logoColor=white)](https://facebook.com/yourprofile)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/vohra-mohammad-51b58021b/)  
+[![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/vohramohammad6)  
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:vohramohammad5253@gmail.com)
+
+---
+
+### 🛠️ Languages and Tools:
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![Redux](https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=redux&logoColor=white)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-0078D4?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+
+---
+
+### 📊 GitHub Stats:
+<p align="center">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=MohammadV2704&show_icons=true&theme=radical" />
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=MohammadV2704&theme=radical" />
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> </a> <a href="https://redux.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> </a> </p>
+---
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mohammadv2704&show_icons=true&locale=en&layout=compact" alt="mohammadv2704" /></p>
+### 🚀 Top Languages:
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MohammadV2704&langs_count=10&layout=compact&theme=radical" />
+</p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mohammadv2704&show_icons=true&locale=en" alt="mohammadv2704" /></p>
+---
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mohammadv2704&" alt="mohammadv2704" /></p>
+### ⚡ GitHub Activity Graph:
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=MohammadV2704&theme=react-dark&hide_border=true" />
+</p>
+
+---
+
+### 🎯 Future Plans:
+- Learn **Cloud Computing (AWS, Azure)**
+- Get better at **DevOps tools like Kubernetes**
+- Dive deeper into **Blockchain Development**
+
+---
+
+🤩 **Thanks for visiting! Feel free to connect. 🚀**
