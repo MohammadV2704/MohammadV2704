@@ -5,7 +5,7 @@
 
 ![Profile Views](https://komarev.com/ghpvc/?username=MohammadV2704&color=brightgreen)
 
-<img align="right" alt="coding" width="350" src="Gif.gif">
+
 
 
 ### 👨‍💻 About Me:
